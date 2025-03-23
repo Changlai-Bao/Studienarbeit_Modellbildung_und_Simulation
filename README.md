@@ -1,6 +1,6 @@
 # Studienarbeit für Modellbildung und Simulation
 
-- [`Studienbeitung.pdf`](Ausarbeitung.pdf)
+- [`Ausarbeitung.pdf`](Ausarbeitung.pdf)
 
 ## 📂Dateistruktur
 
