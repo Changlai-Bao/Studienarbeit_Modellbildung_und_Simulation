@@ -1,5 +1,7 @@
 # Studienarbeit für Modellbildung und Simulation
 
+- [`Ausarbeitung.pdf`](Ausarbeitung.pdf)
+
 ## 📂Dateistruktur
 
 - `Ausarbeitung.pdf`: Ausarbeitung
@@ -14,10 +16,10 @@
 
 ## 📜Lizenz
 
-Dieses Projekt steht unter [MIT License](LICENSE)
+Dieses Projekt steht unter [`MIT License`](LICENSE)
 
 ## 📫Kontakt
 
-- 📧 Email: [changlai.bao@outlook.com](mailto:changlai.bao@outlook.com)
-- 🐙 GitHub: [Changlai-Bao](https://github.com/Changlai-Bao)
-- 🌐 Webseit: [https://Changlai-Bao.github.io](https://Changlai-Bao.github.io)
+- 📧 Email: [`changlai.bao@outlook.com`](mailto:changlai.bao@outlook.com)
+- 🐙 GitHub: [`Changlai-Bao`](https://github.com/Changlai-Bao)
+- 🌐 Webseit: [`https://Changlai-Bao.github.io`](https://Changlai-Bao.github.io)
